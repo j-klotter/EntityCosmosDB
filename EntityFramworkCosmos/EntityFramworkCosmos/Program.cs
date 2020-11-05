@@ -15,7 +15,7 @@ namespace EntityFramworkCosmos
         {
             CreateHostBuilder(args).Build().Run();
         }
-
+        //main branch
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
