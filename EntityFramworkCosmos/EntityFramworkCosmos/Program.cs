@@ -14,10 +14,12 @@ namespace EntityFramworkCosmos
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
-            //eine änderung im code
-            //noch mehr änderungen
+
+            //eine ï¿½nderung im code
+            //noch mehr ï¿½nderungen
             //noch mehr 
             //blabla
+
         }
         //main branch
         public static IHostBuilder CreateHostBuilder(string[] args) =>
@@ -26,5 +28,6 @@ namespace EntityFramworkCosmos
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+ 
     }
 }

@@ -6,7 +6,8 @@
     "iisExpress": {
       "applicationUrl": "http://localhost:51070",
       "sslPort": 44359
-    }
+    } //hashduwahods
+    } 
   },
   "profiles": {
     "IIS Express": {
