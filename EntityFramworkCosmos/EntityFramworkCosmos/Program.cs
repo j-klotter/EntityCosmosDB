@@ -14,7 +14,6 @@ namespace EntityFramworkCosmos
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
-            //eine änderung im code
         }
         //main branch
         public static IHostBuilder CreateHostBuilder(string[] args) =>
